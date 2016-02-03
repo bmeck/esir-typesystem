@@ -1,13 +1,12 @@
-~~A~~Esir
+~~A~~Esir TypeSystem
 
-An - EcmaScript IR
+Tooling for a Compiler to create a Type System.
 
-## Requirements
+# Operation
 
-Node v4+
+# SSA
 
-## Example usage
+# Type
 
-```sh
-SRC='$(cat file.js)' npm run polyfilled #uses babel-node for simplicity while developing
-```
+# Value
+
