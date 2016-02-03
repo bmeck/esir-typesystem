@@ -1,0 +1,12 @@
+.git/
+lib/
+.babelrc
+.gitignore
+test/
+node_modules/
+typings/
+*.jsconfig
+*.log
+*.DS_Store
+*.swp
+*.swo
