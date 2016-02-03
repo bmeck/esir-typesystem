@@ -1,0 +1,7 @@
+node_modules/
+typings/
+*.jsconfig
+*.log
+*.DS_Store
+*.swp
+*.swo
